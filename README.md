@@ -1,8 +1,8 @@
-# SKCT 시험 대비 도구
+# SKCT 공부용 
 
-SKCT 실전 연습용 메모장, 그림판, 계산기 통합 도구입니다.
+SKCT 공부용 메모장(그림판)+계산기 
 
-Structure
+#1 Structure
 
 ```plain text
 /sc
@@ -10,7 +10,7 @@ Structure
 └── script.js
 ```
 
-Example Image
+#2 Example Image
 
 1. 메모장+계산기
 
