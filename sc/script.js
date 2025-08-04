@@ -231,5 +231,6 @@ window.onload = () => {
   canvas.style.display = 'none';
   strokeControls.style.display = 'none';
   modeToggleBtn.textContent = '🎨 그림판';
-  display.focus();
 };
+
+
