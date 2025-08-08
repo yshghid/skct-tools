@@ -1,6 +1,8 @@
-# SKCT 공부용 
+# SKCT study tool
 
-SKCT 공부용 메모장(그림판)+계산기 
+(HTML 복습삼아 만들어본..) skct 시험대비용 메모장+계산기 
+
+###
 
 #1 Structure
 
