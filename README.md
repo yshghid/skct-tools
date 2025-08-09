@@ -1,6 +1,6 @@
 # SKCT study tool
 
-(HTML 복습삼아 만들어본..) skct 시험대비용 메모장+계산기 
+~(HTML 복습삼아 만들어본)~ skct 시험대비용 메모장+계산기 
 
 ###
 
